@@ -36,3 +36,36 @@
     transform: rotate(360deg);
   }
 }
+.search input {
+  width: 40vw;
+  height: 3vh;
+  margin: 20px;
+  font-size: 24px;
+}
+
+.check input {
+  margin: 10px;
+  width: 2vw;
+  height: 2vh;
+}
+.search label,
+.check label {
+  font-size: 1.5em;
+}
+.heading {
+  font-size: 1.5em;
+}
+.product-table table {
+  width: 50%;
+  margin: auto;
+  font-size: 2em;
+  padding-top: 50px;
+}
+tr th {
+  background-color: #e7ecef;
+}
+.product-table table td,
+th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
